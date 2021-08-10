@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "679889364821",
+    "project_id": "yellowclass-e87a1",
+    "storage_bucket": "yellowclass-e87a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679889364821:android:30a210beac85e9d352b1dc",
+        "android_client_info": {
+          "package_name": "com.alvisjerome.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679889364821-dfkur7gb8hel56p0b7vp3vdc2b6gonv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIvK26Fp-d70jtl2BhPlVMjszVr0pegg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679889364821-dfkur7gb8hel56p0b7vp3vdc2b6gonv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679889364821-kc7fb6d6e61814knn9ampo5ithn3co9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alvisjerome.yellowclass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
