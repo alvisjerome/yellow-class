@@ -8,9 +8,9 @@ a simple application to demonstrate Firebase Authentication and Video Player imp
 
 <table>
   <tr>
-    <td>Login Screen Page</td>
-     <td>Home Screen Page</td>
-    <td>Signup Screen Page</td>
+    <td>Login Screen</td>
+     <td>Signup Screen</td>
+    <td>Home Screen</td>
   </tr>
   <tr>
     <td><img src="screenshots/login.png" width=270 height=480></td>
